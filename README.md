@@ -16,3 +16,5 @@ Branch 3
 
 Branch 3 (one more fix)
 
+
+Some changes in master
